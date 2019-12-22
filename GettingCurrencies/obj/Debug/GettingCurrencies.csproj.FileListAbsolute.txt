@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\Visual Studio 2019\Projects\GettingCurrencies\GettingCurrencies\bin\Debug\GettingCurrencies.exe.config
+C:\Users\USER\Documents\Visual Studio 2019\Projects\GettingCurrencies\GettingCurrencies\bin\Debug\GettingCurrencies.exe
+C:\Users\USER\Documents\Visual Studio 2019\Projects\GettingCurrencies\GettingCurrencies\bin\Debug\GettingCurrencies.pdb
+C:\Users\USER\Documents\Visual Studio 2019\Projects\GettingCurrencies\GettingCurrencies\obj\Debug\GettingCurrencies.csprojAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2019\Projects\GettingCurrencies\GettingCurrencies\obj\Debug\GettingCurrencies.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2019\Projects\GettingCurrencies\GettingCurrencies\obj\Debug\GettingCurrencies.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2019\Projects\GettingCurrencies\GettingCurrencies\obj\Debug\GettingCurrencies.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Visual Studio 2019\Projects\GettingCurrencies\GettingCurrencies\obj\Debug\GettingCurrencies.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2019\Projects\GettingCurrencies\GettingCurrencies\obj\Debug\GettingCurrencies.exe
+C:\Users\USER\Documents\Visual Studio 2019\Projects\GettingCurrencies\GettingCurrencies\obj\Debug\GettingCurrencies.pdb
+C:\Users\USER\Documents\Visual Studio 2019\Projects\GettingCurrencies\GettingCurrencies\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Documents\Visual Studio 2019\Projects\GettingCurrencies\GettingCurrencies\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\USER\Documents\Visual Studio 2019\Projects\GettingCurrencies\GettingCurrencies\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Documents\Visual Studio 2019\Projects\GettingCurrencies\GettingCurrencies\obj\Debug\GettingCurrencies.csproj.CopyComplete
